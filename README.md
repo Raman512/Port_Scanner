@@ -14,3 +14,5 @@ This is a simple Python script that performs a port scan on a given IP address t
 - Python 3.x
 
 
+## Usages
+python3 portscan.py <IP address>
